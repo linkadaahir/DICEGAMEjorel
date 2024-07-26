@@ -46,7 +46,7 @@ const Home1 = () => {
         <div>
           <img src="/images/National-Dice-Day-iStock-1221187735-750x375 (1).jpg" alt="DiceGame" className="absolute top-0 left-0 from-gray-900 via-gray-900 to-purple-800 bottom-0 leading-5 h-full w-full overflow-hidden opacity-45" />
         </div>
-        <div className="relative min-w-screen min-h-screen flex items-center justify-center">
+        <div className="relative min-w-screen min-h-screen flex flex-col items-center justify-center">
           <div className="flex items-center justify-center flex-col gap-3 relative mt-10">
             <h1 className="text-5xl text-white">Private Mode</h1>
             <p>Created with 💞 by Sk</p>
