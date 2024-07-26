@@ -1,0 +1,34 @@
+/* src/styles/Home1.css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.home-container {
+    text-align: center;
+}
+
+.nav-buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.play, .participant {
+    background-color: #007bff;
+    color: white;
+    padding: 15px 30px;
+    margin: 0 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.play:hover, .participant:hover {
+    background-color: #0056b3;
+} */

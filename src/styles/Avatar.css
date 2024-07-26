@@ -1,0 +1,19 @@
+/* src/styles/Avatar.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.avatar-container {
+    text-align: center;
+}
+.de1 {
+    transform: scale(1.5);
+    opacity: 0.1;
+}
